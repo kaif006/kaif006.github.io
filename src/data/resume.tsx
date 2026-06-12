@@ -12,13 +12,13 @@ import { Kubernetes } from "@/components/ui/svgs/kubernetes";
 import { Astro } from "@/components/ui/svgs/astro";
 
 export const DATA = {
-  name: "Alex Mercer - Software Engineer",
-  initials: "AM",
+  name: "Kaif Jallalani - Software Engineer",
+  initials: "KJ",
   url: "https://alexmercer.dev",
-  location: "Austin, TX",
+  location: "Karachi, Sindh",
   locationLink: "https://www.google.com/maps/place/austin+tx",
   description:
-    "Full-stack engineer turned indie founder. I love building developer tools, fast UIs, and products people actually use.",
+    "Final-year CS student with a strong focus on software architecture, game development, and graphics programming.",
   summary:
     "In early 2023, I left a senior engineering role to go all-in on building my own SaaS products. Before that, [I completed a double degree in computer science and business](/#education), [interned at companies like Stripe and Cloudflare](/#work), and [competed in 18+ hackathons](/#hackathons). I also spent a summer in San Francisco as part of a founder residency focused on shipping fast and finding early customers.",
   avatarUrl: "/picofme.png",
