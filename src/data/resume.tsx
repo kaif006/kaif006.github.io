@@ -13,7 +13,7 @@ export const DATA = {
   description:
     "Third-year CS student with a strong focus on software architecture, game development, and graphics programming.[cite: 1]",
   summary:
-    "I am a Computer Science student at NED University of Engineering & Technology[cite: 1]. I specialize in software architecture, game development, and graphics programming[cite: 1]. I have experience with C#, C++, Python, JavaScript, and SQL[cite: 1], and I actively develop projects using Unity, Unreal Engine, and custom shaders[cite: 1].",
+    "I am a Computer Science student at NED University of Engineering & Technology. I specialize in software architecture, game development, and graphics programming. I have experience with C#, C++, Python, JavaScript, and SQL, and I actively develop projects using Unity, Unreal Engine, and custom shaders.",
   avatarUrl: "/picofme.png",
   ogImage: "/og_image.png",
   sections: {
@@ -115,7 +115,7 @@ export const DATA = {
   projects: [
     {
       title: "Tiptoe Thief", //[cite: 1]
-      href: "https://itch.io/tiptoe-thief", //[cite: 1]
+      href: "https://kaif006.itch.io/tiptoe-thief", //[cite: 1]
       dates: "Feb. 2026", //[cite: 1]
       active: true,
       description:
@@ -127,7 +127,7 @@ export const DATA = {
       links: [
         {
           type: "Website",
-          href: "https://itch.io/tiptoe-thief", //[cite: 1]
+          href: "https://kaif006.itch.io/tiptoe-thief", //[cite: 1]
           icon: <Icons.globe className="size-3" />,
         },
       ],
