@@ -131,7 +131,7 @@ export const DATA = {
           icon: <Icons.globe className="size-3" />,
         },
       ],
-      image: "../images/tiptoe-thief.png",
+      image: "/images/tiptoe-thief.png",
       video: "",
     },
     {
@@ -145,7 +145,7 @@ export const DATA = {
         "Unreal Engine",
       ],
       links: [],
-      image: "../images/ragdoll-game.png",
+      image: "/images/ragdoll-game.png",
       video: "",
     },
     {
